@@ -3,8 +3,6 @@
 
 ## A passionate frontend developer from Mexico
 
-<br>
-
 - 🔭 I’m currently working on [CovidApp](https://github.com/GabrielTenZig/ProyectCovid), see the demo [here](https://gabrieltenzig.github.io/ProyectCovid)
 
 - 🌱 I’m currently learning **better CSS and JS**

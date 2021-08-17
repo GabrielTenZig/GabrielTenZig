@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 <br>
 
-- 🔭 I’m currently working on [CovidApp](https://github.com/GabrielTenZig/ProyectCovid), see the demo [here](https://gabrieltenzig.github.io/ProyectCovid){:target="_blank"}
+- 🔭 I’m currently working on [CovidApp](https://github.com/GabrielTenZig/ProyectCovid), see the demo [here](https://gabrieltenzig.github.io/ProyectCovid)
 
 - 🌱 I’m currently learning **better CSS and JS**
 
@@ -13,7 +13,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/gabriel_tz99" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/gabriel_tz99" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabriel_tz99" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/gabrieltenorioziga" target="_blank">

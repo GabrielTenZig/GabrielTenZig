@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Tenzig</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
-### A passionate frontend developer from Mexico
+## A passionate frontend developer from Mexico
 <br>
 
 - 🔭 I’m currently working on [CovidApp](https://github.com/GabrielTenZig/ProyectCovid), see the demo [here](https://gabrieltenzig.github.io/ProyectCovid)

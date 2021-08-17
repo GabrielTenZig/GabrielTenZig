@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 <br>
 
-- 🔭 I’m currently working on [CovidApp](https://github.com/GabrielTenZig/ProyectCovid), see the demo [here](https://gabrieltenzig.github.io/ProyectCovid)
+- 🔭 I’m currently working on [CovidApp](https://github.com/GabrielTenZig/ProyectCovid), see the demo [here](https://gabrieltenzig.github.io/ProyectCovid){: target="_blank", style="color: red;"}
 
 - 🌱 I’m currently learning **better CSS and JS**
 

@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel Tenzig</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
+
 ## A passionate frontend developer from Mexico
+
 <br>
 
 - 🔭 I’m currently working on [CovidApp](https://github.com/GabrielTenZig/ProyectCovid), see the demo [here](https://gabrieltenzig.github.io/ProyectCovid)
@@ -12,6 +14,7 @@
 - 📫 How to reach me **gabtenzig2@gmail.com**
 
 <br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/gabriel_tz99" target="_blank">

@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Tenzig</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
+### A passionate frontend developer from Mexico
 <br>
 
 - 🔭 I’m currently working on [CovidApp](https://github.com/GabrielTenZig/ProyectCovid), see the demo [here](https://gabrieltenzig.github.io/ProyectCovid)
@@ -13,8 +14,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/gabriel_tz99" target="_blank" style="color: #fff;">
-    Hello
+  <a href="https://twitter.com/gabriel_tz99" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabriel_tz99" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/gabrieltenorioziga" target="_blank">

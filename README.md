@@ -7,10 +7,9 @@ Here are some of my projects with available demos:
 - Website to display academic information for an academic body [view demo](https://gabrieltenzig.github.io/Servicio-social/).
 - Website for a Covid statistical data consultation application called CovidApp [view demo](https://gabrieltenzig.github.io/ProyectCovid/).
 
+Now
 - 🌱 I’m currently learning **better CSS and JS**
-
 - 💬 Ask me about **HTML, CSS and Javascript**
-
 - 📫 How to reach me **gabtenzig2@gmail.com**
 
 <br>

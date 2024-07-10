@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel Tenorio Ziga</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-- 🔭 I’m currently working on [CovidApp](https://github.com/GabrielTenZig/ProyectCovid), see the demo [here](https://gabrieltenzig.github.io/ProyectCovid)
+Here are some of my projects with available demos:
+- Website for a vacation pool resort [view demo](https://gabrieltenzig.github.io/balneario-las-palmas/).
+- Website for a CódigoFacilito contest [view demo](https://gabrieltenzig.github.io/vacaciones-cody/).
+- Website to display academic information for an academic body [view demo](https://gabrieltenzig.github.io/Servicio-social/).
+- Website for a Covid statistical data consultation application called CovidApp [view demo](https://gabrieltenzig.github.io/ProyectCovid/).
 
 - 🌱 I’m currently learning **better CSS and JS**
 
@@ -21,9 +25,11 @@
   <a href="https://linkedin.com/in/gabrieltenorioziga" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrieltenorioziga" height="30" width="40" />
   </a>
+  <!--
   <a href="https://instagram.com/gabriel_tenzig" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_tenzig" height="30" width="40" />
   </a>
+  -->
 </p>
 
 <br>
